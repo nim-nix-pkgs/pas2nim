@@ -7,8 +7,17 @@
   "license": "MIT",
   "web": "https://github.com/nim-lang/pas2nim",
   "refs": [
-    "fatal: unable to access 'https://github.com/nim-lang/pas2nim/': Could not resolve host: github.com",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "desc": "pas2nim is a tool to translate Pascal code to Nim.",
+      "license": "MIT",
+      "name": "pas2nim",
+      "ref": "refs/heads/master",
+      "url": "https://github.com/nim-lang/pas2nim",
+      "version": "master"
+    }
+  ]
 }
