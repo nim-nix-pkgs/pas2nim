@@ -11,6 +11,7 @@
   inputs.src-pas2nim-master.ref   = "refs/heads/master";
   inputs.src-pas2nim-master.owner = "nim-lang";
   inputs.src-pas2nim-master.repo  = "pas2nim";
+  inputs.src-pas2nim-master.dir   = "";
   inputs.src-pas2nim-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
